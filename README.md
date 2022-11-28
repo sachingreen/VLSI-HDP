@@ -22,3 +22,12 @@
 </details>
 
 <details><summary> DAY-1  </summary> 
+ 
+ # Introduction to Verilog RTL design and Synthesis
+ 
+### Intro to open-source simulator iverilog
+ - Simulator 
+ - Testbench
+<img width="1259" alt="Screenshot 2022-11-28 at 1 33 35 PM" src="https://user-images.githubusercontent.com/43700789/204224989-86daa03e-847c-433c-bbc9-dbc2bd52e9cb.png">
+
+
