@@ -1,6 +1,9 @@
 # VLSI-HDP
 
-## Day-0 
+<details><summary> DAY-0  </summary> 
+
+ ## DAY-0 
+
 ### Installed 3 tools 
 
 > Yosys
@@ -15,3 +18,7 @@
 > ngspice
 
 ![Screenshot 2022-11-28 at 12 33 57 PM](https://user-images.githubusercontent.com/43700789/204221644-f8da8de4-9884-473a-b2d8-a6a96e09ce5b.png)
+
+</details>
+
+<details><summary> DAY-1  </summary> 
