@@ -22,12 +22,32 @@
 </details>
 
 <details><summary> DAY-1  </summary> 
- 
+
  # Introduction to Verilog RTL design and Synthesis
  
 ### Intro to open-source simulator iverilog
  - Simulator 
  - Testbench
 <img width="1259" alt="Screenshot 2022-11-28 at 1 33 35 PM" src="https://user-images.githubusercontent.com/43700789/204224989-86daa03e-847c-433c-bbc9-dbc2bd52e9cb.png">
+
+### Installation of Iverilog and gtkwave using command line
+
+### Introduction to Yosys and Logic synthesis
+-  RTL to gate level translation 
+-  We also understood how the design is converted into gates and the connections are made 
+-  Brief about netlist and how it can be simulated in the Yosys
+<img width="1277" alt="Screenshot 2022-12-02 at 6 36 36 PM" src="https://user-images.githubusercontent.com/43700789/205365752-d7be974c-d719-4dfb-836c-a212de500b64.png">
+
+## Day-1 Lab
+
+- Colned a repo from Kunalg123- Guithub and deployed it in Yosys. 
+- We worked on good_mux and created a netlist using the tools mentioned 
+
+> [Simplified netlist generated using Yosys]
+
+<img width="936" alt="Screenshot 2022-12-02 at 10 50 44 PM" src="https://user-images.githubusercontent.com/43700789/205368211-430f816b-0ef5-4fe3-ad5d-593f7c35a043.png"> 
+
+
+
 
 
