@@ -47,6 +47,14 @@
 
 <img width="936" alt="Screenshot 2022-12-02 at 10 50 44 PM" src="https://user-images.githubusercontent.com/43700789/205368211-430f816b-0ef5-4fe3-ad5d-593f7c35a043.png"> 
 
+ </details>
+
+<details><summary> DAY-2  </summary>  
+
+# Timing libs, hierarchical vs flat synthesis and efficient flop coding styles
+ 
+ ## Intro to timing.libs
+ 
 
 
 
