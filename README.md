@@ -23,7 +23,7 @@
 
 <details><summary> DAY-1  </summary> 
 
- # Introduction to Verilog RTL design and Synthesis
+> # Introduction to Verilog RTL design and Synthesis
  
 ### Intro to open-source simulator iverilog
  - Simulator 
@@ -53,9 +53,26 @@
 
 # Timing libs, hierarchical vs flat synthesis and efficient flop coding styles
  
- ## Intro to timing.libs
+ > ## Intro to timing.libs
+ This is an introduction about .lib files where it contains the data about differnt types of files and how they vary. The variatins also depends on few crucial factors such as area which can be directly propotionate to factors such as temperature, power and the process. 
+ * Added a sample of gvim file containing the area and power leakage of **"SKY130_fd_sc_hd__a2111o"** gate.
+<img width="727" alt="Screenshot 2022-12-05 at 6 50 47 PM" src="https://user-images.githubusercontent.com/43700789/205648160-80d9dd9c-a3d5-434d-a2a7-47ac1f1c3e7b.png">
+
+ * <b>.lib</b> files provide lot more extensive data about the cells and it's hirearchial data.  
  
+ >  ### Hierarchial synthesis vs Flat synthesis
+ <img width="1246" alt="Screenshot 2022-12-05 at 7 49 21 PM" src="https://user-images.githubusercontent.com/43700789/205707481-a389a68a-36cf-4c74-8f03-b863833ee41c.png">
 
+> ### Various Flop coding styles and optimization 
+* Here we understood how flipflops work and the differnce between <b> Synchronous and Asynchronous Flipflops </b>
+* How hardware optimization is so much more effective and effeicent than the tradtional software methods. 
+<img width="1516" alt="Screenshot 2022-12-05 at 9 28 24 PM" src="https://user-images.githubusercontent.com/43700789/205711184-f3485d10-624c-4507-8028-30736e1b78a2.png">
 
+</details>
 
+<details><summary> DAY-3  </summary>  
+
+# Day 3 - Combinational and sequential optmizations
+
+> ## Introduction to optimization 
 
