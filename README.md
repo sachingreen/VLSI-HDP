@@ -75,4 +75,38 @@
 # Day 3 - Combinational and sequential optmizations
 
 > ## Introduction to optimization 
+  - Constant propagation 
+  - Boolean logic optimaization 
+ 
+ ### Sequential logic optimization 
+ - Basic 
+ 
+   1.Sequential constant propagation 
+ - Advanced [Not covered in lab]
+ 
+   1.State optimisation 
+ 
+   2.Retiming 
+ 
+   3.Sequential logic cloning (Floor plan aware synthesis)
+ 
+ ### Combinational Logics HW
+   - Opt_Check4.v 
+ <img width="1603" alt="Screenshot 2022-12-10 at 3 47 28 PM" src="https://user-images.githubusercontent.com/43700789/206849813-01f3c8b3-0bbf-4a86-aa02-d5290f4abb87.png">
+ 
+   - Multiple_module_opt2.v
+ <img width="840" alt="Screenshot 2022-12-10 at 3 53 05 PM" src="https://user-images.githubusercontent.com/43700789/206849998-c0ca84ad-62f1-4876-82e1-9e7864390354.png">
+ 
+### Sequential logic optimizations
+    - dff_const3.v
+ <img width="829" alt="Screenshot 2022-12-10 at 4 37 09 PM" src="https://user-images.githubusercontent.com/43700789/206852030-7d6f22c9-2373-48a4-9408-19b12f63aee8.png">
+
+ <b> We ended the day3 learning about sequential optimization for unsed outputs. It sates what all outputs dont have roles in determinig the primary outputs in logic will be optimized.<b/>
+  
+  </details>
+ 
+ <details><summary> DAY-4  </summary>  
+  
+  # Day 4 - GLS, blocking vs non-blocking and Synthesis-Simulation mismatch
+
 
